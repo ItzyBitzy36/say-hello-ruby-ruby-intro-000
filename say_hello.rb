@@ -1,1 +1,2 @@
-puts "1+1 os equal to #{1+1}"
+Betzalel = [Betzalel, 27, Caregiver]
+name = Betzalel[0]
